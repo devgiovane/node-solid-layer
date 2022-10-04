@@ -1,10 +1,7 @@
+node_modules/
+# IDE's
 .vscode/
 .idea/
-
-node_modules/
-
+# Build
 dist/
 build/
-
-.env
-.env.*

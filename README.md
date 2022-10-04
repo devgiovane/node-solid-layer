@@ -2,12 +2,14 @@
 
 # Layers with SOLID and Node.js
 
-> separating layers co with SOLID in node.js and postgres
+> Separating layers co with SOLID in node.js with express and postgres
 
 ### Concepts:
 
-- SOLID
 - TDD
+- SOLID
+- DDD
+- Clean Arch
 
 ### Commands
 
